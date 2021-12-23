@@ -3,7 +3,7 @@
   <Package Version="4">
     <PathDelim Value="\"/>
     <Name Value="HashLib4PascalPackage"/>
-    <Type Value="RunTimeOnly"/>
+    <Type Value="RunAndDesignTime"/>
     <Author Value="Xor-el (Ugochukwu Mmaduekwe)"/>
     <CompilerOptions>
       <Version Value="11"/>
